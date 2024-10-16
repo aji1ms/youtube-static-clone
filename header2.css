@@ -1,0 +1,150 @@
+.all-option,
+.gaming-option,
+.news-option,
+.webdevelopment-option,
+.ComputerProgramming-option,
+.ClashofClans-option,
+.live-option,
+.Washingmachine-option,
+.BattlegroundsMobileIndia-option,
+.gamingcomputer-option,
+.samsung-option,
+.arrow-option {
+
+    margin-right: 8px;
+    align-items: center;
+    border: none;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-weight: 400;
+    background-color: rgb(243, 240, 240);
+    cursor: pointer;
+    transition: 0.30s;
+    font-weight: 545;
+    font-size: 15px;
+
+}
+
+.gaming-option:hover,
+.news-option:hover,
+.webdevelopment-option:hover,
+.ComputerProgramming-option:hover,
+.ClashofClans-option:hover,
+.live-option:hover,
+.Washingmachine-option:hover,
+.BattlegroundsMobileIndia-option:hover,
+.gamingcomputer-option:hover,
+.samsung-option:hover,
+.android-option:hover {
+
+    background-color: rgb(224, 224, 224);
+    transition: 0.30s;
+}
+
+.all-option {
+    color: white;
+    background-color: black;
+    padding-left: 15px;
+    padding-right: 15px;
+    transition: 0.30s;
+}
+
+.arrow-option {
+    background-color: aqua;
+    height: 30px;
+    border-radius: 15px;
+    transition: 0.30s;
+    margin-left: 10px;
+
+}
+
+.arrow-option:hover {
+    background-color: rgb(224, 224, 224);
+    transition: 0.30s;
+}
+
+.header3 {
+    margin-top: 30px;
+    color: rgb(0, 0, 0);
+    height: 50px;
+}
+
+.header3 {
+    display: flex;
+    align-items: center;
+}
+
+.shorts-img {
+    height: 30px;
+}
+
+.shorts-text {
+    height: 25px;
+    width: 60px;
+}
+
+.shorts {
+    height: 400px;
+    border-radius: 10px;
+}
+
+.shorts-grid {
+    margin-top: 10px;
+    padding-left: 10px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-color: rgb(227, 227, 227);
+    padding-bottom: 50px;
+    position: relative;
+}
+
+.showmore-button {
+    width: 340px;
+    height: 40px;
+    position: absolute;
+    bottom: -20px;
+    margin-left: 510px;
+    border-radius: 20px;
+    background-color: white;
+    border-color: rgb(227, 227, 227);
+    border-style: solid;
+    font-size: 14px;
+}
+
+.showmore-button:hover {
+    background-color: rgb(224, 224, 224);
+    ;
+}
+
+.shorts-preview {
+    display: inline-block;
+    width: 232px;
+    vertical-align: top;
+    cursor: pointer;
+
+}
+
+.short-info {
+    position: relative;
+    padding-top: 2px;
+
+}
+
+.dot-short {
+    position: absolute;
+    height: 20px;
+    bottom: 17px;
+    right: 15px;
+}
+
+.shorts-stats {
+    margin-top: 50px;
+}
+
+.view-count-shorts {
+    margin-top: 9px;
+    color: rgb(118, 118, 118);
+}
